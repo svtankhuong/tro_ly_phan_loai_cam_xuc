@@ -1,0 +1,3 @@
+[submodule "Sentiment_Analysis"]
+	path = Sentiment_Analysis
+	url = git@github.com:svtankhuong/Sentiment_Analysis.git
