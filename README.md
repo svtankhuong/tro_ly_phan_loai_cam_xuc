@@ -55,7 +55,7 @@
 -----
 
 ## Lưu ý
-Vì không muốn bị sao chép code, nên mã nguồn của dự án trong link github này không thể tải về được.
-Thây cô hoặc bạn nào có nhu cầu muốn tải và xem code của em. Vui lòng liên hệ email sau: tankhuongpham35@gmail.com.
+Để đảm bảo tính liêm chính học thuật (academic integrity) và tránh các vấn đề liên quan đến sao chép đồ án, mã nguồn của dự án này hiện không được công khai.
+Thầy cô hoặc các bạn quan tâm muốn tham khảo chi tiết, vui lòng liên hệ trực tiếp qua email: tankhuongpham35@gmail.com để được cấp quyền truy cập.
 
 -----
