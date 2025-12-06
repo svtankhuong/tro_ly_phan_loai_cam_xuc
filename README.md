@@ -54,7 +54,7 @@
 
 -----
 
-## Lưu Ý
+## Lưu ý
 Vì không muốn bị sao chép code, nên mã nguồn của dự án trong link github này không thể tải về được.
 Thây cô hoặc bạn nào có nhu cầu muốn tải và xem code của em. Vui lòng liên hệ email sau: tankhuongpham35@gmail.com.
 
