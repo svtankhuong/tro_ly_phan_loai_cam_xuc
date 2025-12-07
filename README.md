@@ -6,6 +6,16 @@
 
 -----
 
+## Gửi đến thầy Nguyễn Tuấn Đăng
+Em có gửi mail cho thầy để cấp quyền source code cho dự án. Email của em là tankhuongpham35@gmail.com
+Thầy hãy đọc kỹ nội dung email mà em gửi để chấp nhận lời mời vào dự án của em.
+
+<img width="1898" height="511" alt="hd" src="https://github.com/user-attachments/assets/6ea30dfc-5d02-490d-a8e1-58b41b881d63" />
+
+Thầy click vào cái folder **Sentiment_Analysis** trong cái github repositorry này. Để được truy cập vào toàn bộ source code của dự án của em.
+
+-----
+
 ## 🚀 Chức năng chính
 
   * Phân loại văn bản đầu vào thành 3 nhãn: **POSITIVE** (Tích cực), **NEGATIVE** (Tiêu cực), và **NEUTRAL** (Trung tính).
