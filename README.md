@@ -1,18 +1,32 @@
+# HƯỚNG DẪN TRUY CẬP SOURCE CODE (Dành cho GV: Thầy Nguyễn Tuấn Đăng)
+
+**Kính gửi Thầy,**
+
+Em là **Phạm Tấn Khương** (MSSV: 3122410191).
+
+Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm bảo tính liêm chính học thuật, phần mã nguồn cốt lõi (Source code) được em lưu trữ dưới dạng **Git Submodule (Private)**.
+
+⚠️ **LƯU Ý QUAN TRỌNG:**
+Để xem được code bên trong thư mục con, Thầy cần có quyền truy cập vào Repository Private. Em đã gửi lời mời (Invite Collaborator) đến email **`ntdsgvn@gmail.com`**.
+
+👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời trước khi bấm vào thư mục bên dưới.**
+
+---
+
+### 📂 Link truy cập Source Code
+Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục có ở trong hình dưới đây:
+
+*(Thư mục này liên kết trực tiếp đến Private Repository chứa code)*
+
+<div align="center">
+  <img width="1898" height="511" alt="hd" src="https://github.com/user-attachments/assets/0bdc6e1c-d11d-466d-90bb-66523bf9e9ba" />
+</div>
+
 # 🤖 Trợ lý phân loại Cảm xúc Tiếng Việt (Tên Project)
 
 Đây là project môn **Seminar chuyên đề** dùng Streamlit để demo mô hình AI phân loại cảm xúc cho văn bản tiếng Việt. 
 
 ![img.png](img.png)
-
------
-
-## Gửi đến thầy Nguyễn Tuấn Đăng
-Em có gửi mail cho thầy để cấp quyền source code cho dự án. Email của em là tankhuongpham35@gmail.com
-Thầy hãy đọc kỹ nội dung email mà em gửi để chấp nhận lời mời vào dự án của em.
-
-<img width="1898" height="511" alt="hd" src="https://github.com/user-attachments/assets/6ea30dfc-5d02-490d-a8e1-58b41b881d63" />
-
-Thầy click vào cái folder **Sentiment_Analysis** trong cái github repositorry này. Để được truy cập vào toàn bộ source code của dự án của em.
 
 -----
 
