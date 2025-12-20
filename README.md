@@ -12,18 +12,13 @@ Repository này là **Public** để nộp báo cáo. Tuy nhiên, để đảm b
 <img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/5d01b6b8-966f-40c9-81d3-756dc79852cf" />
 
 
-👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời trước khi tải mã nguồn về.**
+👉 **Thầy vui lòng kiểm tra Email và Chấp nhận lời mời.**
 
 ---
 
-### 📂 Folder truy cập Source Code
-Sau khi đã chấp nhận quyền truy cập, Thầy vui lòng click vào thư mục có ở trong hình dưới đây:
-
-*(Thư mục này liên kết trực tiếp đến Private Repository chứa code)*
-
-<div align="center">
-  <img width="1103" height="415" alt="image" src="https://github.com/user-attachments/assets/888c3e47-e4ac-4cae-b4e6-5e180303a50e" />
-</div>
+### Link truy cập Source Code
+Sau khi đã chấp nhận quyền truy cập, Thấy nhấn vào đường link bên dưới:
+https://github.com/svtankhuong/Sentiment_Analysis/tree/b0d850a27fe570f5178b9567579578749db5d437
 
 # 🤖 Trợ lý phân loại Cảm xúc Tiếng Việt (Tên Project)
 
